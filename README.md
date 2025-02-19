@@ -23,7 +23,7 @@ Cloudflare Workers HTTP 反向代理
 ## 部署
 
 - Workers 方式: 复制 [_worker.js](_worker.js) ，在 [Cloudflare](https://www.cloudflare.com) 保存并部署
-- [一个通用的 Cloudflare Workers HTTP 反向代理](https://jonssonyan.com/2024/9/) | [【Cloudflare】#3 搭建GitHub加速_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qDsYe5ECP/?vd_source=b77d16daa3ab7c633cfc471798ed990e&spm_id_from=333.788.player.switch)  | [牛啊，GitHub 代理加速图文教程](https://blog.csdn.net/y1534414425/article/details/142408381)
+- [一个通用的 Cloudflare Workers HTTP 反向代理](https://jonssonyan.com/2024/9/) | [【Cloudflare】#3 搭建GitHub加速_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xZtCecEES/?vd_source=b77d16daa3ab7c633cfc471798ed990e&spm_id_from=333.788.videopod.sections)  | [牛啊，GitHub 代理加速图文教程](https://blog.csdn.net/y1534414425/article/details/142408381)
 - Pages 方式: [Fork](https://github.com/jonssonyan/cf-workers-proxy/fork)
   仓库，在 [Cloudflare](https://www.cloudflare.com) 连接 GitHub 一键部署
 
